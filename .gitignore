@@ -1,0 +1,20 @@
+
+# Local database configuration
+/config/config.inc.php
+/config/config.inc.php.bak
+/database/sqli.db
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
